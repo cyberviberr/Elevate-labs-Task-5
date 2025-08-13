@@ -4,7 +4,6 @@ Objective: Capture live network packets and identify basic protocols and traffic
 Tools: Wireshark
 
 1. Started capturing my network traffic/interface
-
 ![wireshark network traffic image](images/Task_2_Wireshark_Traffice_Capture.png)
 
 2. Browsed the website flipkart.com and filtered & observed HTTP, DNS, and TCP responses using Wireshark.
