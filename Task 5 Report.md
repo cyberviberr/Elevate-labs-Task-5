@@ -17,4 +17,10 @@ Tools: Wireshark
 ![LLMNR response](images/Task_5.8_LLMNR_Response.png)
 
 5. Exported the capture as .pcap file
-![.pcap ss](
+![.pcap ss](images/Task_pcap)
+
+6. Summary
+   ■ During the capture, I identified the following protocols: HTTP, DNS, and TCP.
+   ■ HTTP traffic included GET and response packets between my browser and the web server.
+   ■ DNS queries resolved domain names to IP addresses, with multiple responses from the DNS server.
+   ■ TCP packets showed the three-way handshake and data transmission, with no retransmissions or errors observed. The capture involved traffic between my local IP and the server IPs, primarily using ports 80 (HTTP) and 53 (DNS).         Overall,the traffic appeared normal, with no signs of anomalies or performance issues.
