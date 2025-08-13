@@ -17,7 +17,7 @@ Tools: Wireshark
 ![LLMNR response](images/Task_5.8_LLMNR_Response.png)
 
 5. Exported the capture as .pcap file
-![.pcap ss](images/Task_pcap)
+![.pcap ss](images/Task_pcap.png)
 
 6. Summary
    ■ During the capture, I identified the following protocols: HTTP, DNS, and TCP.
